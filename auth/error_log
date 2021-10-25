@@ -1,0 +1,18 @@
+[17-May-2017 01:56:09 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/wdysolutions/public_html/eggnotes/core/my_functions.php on line 419
+[17-May-2017 01:56:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/wdysolutions/public_html/eggnotes/core/my_functions.php on line 419
+[21-May-2017 10:55:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wdysolutions/public_html/eggnotes/core/my_functions.php on line 463
+[30-May-2017 01:57:31 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/wdysolutions/public_html/eggnotes/core/my_functions.php on line 527
+[30-May-2017 01:58:09 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/wdysolutions/public_html/eggnotes/core/my_functions.php on line 527
+[30-May-2017 01:58:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '&' or variable (T_VARIABLE) in /home/wdysolutions/public_html/eggnotes/core/my_functions.php on line 527
+[03-Oct-2017 01:51:29 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2370
+[03-Oct-2017 01:51:32 UTC] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2370
+[04-Oct-2017 05:42:40 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2375
+[02-Dec-2017 02:28:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2671
+[02-Dec-2017 02:28:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2671
+[02-Dec-2017 02:28:45 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2671
+[02-Dec-2017 02:29:04 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2671
+[02-Dec-2017 02:29:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 2671
+[02-Dec-2017 02:29:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 750
+[02-Dec-2017 02:49:41 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 1961
+[02-Dec-2017 02:49:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 1961
+[07-Dec-2017 13:33:40 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/wdysolutions/public_html/notes_dev/core/my_functions.php on line 785
